@@ -92,7 +92,11 @@ To import the necessary data, we will use pandas' built in read_csv() function.
 You can use the online editor (Colab.com) for edit and review
 
 * [Online Editor](https://colab.research.google.com)
-
+  
+* Anaconda
+  
+* Spyder (Anaconda3)
+  
 ## Datasets:
   
 * [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/)
@@ -104,7 +108,6 @@ You can use the online editor (Colab.com) for edit and review
 * [Mail](mailto:alihajikhani@gmail.com)
 
 * [linkedin](https://www.linkedin.com/in/ali-hadjikhani)
-
 
 * [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any 
 feedback or suggestions.

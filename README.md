@@ -1,6 +1,6 @@
 # Python Machine Learning By Example Third Edition
 
-This repository aims to solve the exercises of chapter 1 and 2 of the book **Python Machine Learning By Example Third Edition** as a micro project published by Mr. Ali HajiKhani.
+This repository aims to solve the exercises of chapter 1 and 2 of the book **Python Machine Learning By Example Third Edition** as a micro project published by **Mr. Ali HajiKhani**.
 
 
 

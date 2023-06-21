@@ -70,7 +70,7 @@ We will go into detail on the following topics:
 
 ## Using Datasets:
 
-,سهدل ِش
+
 # Heart-Disease-Prediction-using-Neural-Networks
 This project will focus on predicting heart disease using neural networks. Based on attributes such as blood pressure, cholestoral levels, heart rate, and other characteristic attributes, patients will be classified according to varying degrees of coronary artery disease. This project will utilize a dataset of 303 patients and distributed by the UCI Machine Learning Repository.
 
@@ -87,3 +87,11 @@ This dataset contains patient data concerning heart disease diagnosis that was c
 
 To import the necessary data, we will use pandas' built in read_csv() function. 
 
+
+## Other resource
+You can use the online editor (Colab.com) for edit and review
+
+* [Online Editor](https://colab.research.google.com)
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

@@ -93,8 +93,9 @@ You can use the online editor (Colab.com) for edit and review
 
 * [Online Editor](https://colab.research.google.com)
 
-*Datasets:
+* Datasets:
 [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/)
+
 [UCI Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download)
 
 ### Suggestions and Feedback

@@ -101,9 +101,9 @@ You can use the online editor (Colab.com) for edit and review
 
 ### Suggestions and Feedback
 
-[Mail](mailto:alihajikhani@gmail.com)
+* [Mail](mailto:alihajikhani@gmail.com)
 
-[linkedin](https://www.linkedin.com/in/ali-hadjikhani)
+* [linkedin](https://www.linkedin.com/in/ali-hadjikhani)
 
 
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any 
